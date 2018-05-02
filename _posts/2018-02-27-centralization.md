@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Thoughts on Centralization"
+title: "From Decentralized Micro to Centralized Macro World"
 description: ""
 date: 2018-02-27
 tags: 
